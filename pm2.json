@@ -1,0 +1,16 @@
+{
+	"apps":[
+		{
+			"name":"thinkjs-learn",
+			"script":"production.js",
+			"cwd":"E:\\www\\thinkjs-learn",
+			"exec_mode":"fork",
+			"max_memory_restart":"1G",
+			"autorestart":true,
+			"node_args":[],
+			"args":[],
+			"env":{
+			}
+		}
+	]
+}
